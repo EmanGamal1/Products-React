@@ -1,0 +1,23 @@
+.col-4 a {
+    color: black;
+  }
+
+.hr{
+    border-color: rgb(185, 185, 185);
+    box-shadow: 0 3px 5px rgba(255, 234, 234, 0.5);
+}
+
+.footer{
+    background-color: rgba(227, 219, 219, 0.119);
+}
+
+.btn-outline-secondary {
+    color: #6c757d;
+    border-color: #6c757d;
+  }
+  
+  .btn-outline-secondary:hover {
+    background-color: #6c757d;
+    color: white;
+    border-color: #6c757d;
+  }
